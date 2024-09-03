@@ -75,7 +75,7 @@ function App() {
   return (
     <div className="app-container">
       <div className="header">
-        <h1>Weather App</h1>
+        <h1>Abhinandan's Weather App</h1>
       </div>
 
       <div className="main-content">
