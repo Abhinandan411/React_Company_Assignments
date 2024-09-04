@@ -1,5 +1,7 @@
 # Warehouse Management System
 
+## [Live Link](https://curious-marzipan-dd742e.netlify.app/)
+
 This web application, built with ReactJS, Redux, React Router DOM, and CSS, is for managing warehouses. It has two main pages: a warehouse listing page and a warehouse details page. There are also pages for filtering and searching.
 
 ## Features
@@ -24,16 +26,13 @@ This web application, built with ReactJS, Redux, React Router DOM, and CSS, is f
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](/Screenshot/Landing%20page.jpeg)
+![Werehouse-1](https://github.com/user-attachments/assets/3fcc9340-4022-4f00-b037-dadb4077b389)
 
-### Filter Page
-![Filter Page](/Screenshot/filter%20page.jpeg)
+![WereHouse-2](https://github.com/user-attachments/assets/301feca8-6134-44c7-b27d-012d508af668)
 
-### Search Page
-![Search Page](/Screenshot/search%20page.jpeg)
+![WareHouse-3](https://github.com/user-attachments/assets/8a350382-a33f-4ee6-b406-1908b71c5495)
 
-### Detail Page
-![Detail Page](/Screenshot/detail%20page.jpeg)
+![Warehouse-4](https://github.com/user-attachments/assets/03e5f538-a60c-4986-990f-9ef3b80e2e74)
 
 
 
