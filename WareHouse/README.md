@@ -1,8 +1,40 @@
-# React + Vite
+# Warehouse Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web application, built with ReactJS, Redux, React Router DOM, and CSS, is for managing warehouses. It has two main pages: a warehouse listing page and a warehouse details page. There are also pages for filtering and searching.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Page 1: Warehouse Listing
+
+- Display a list of warehouses from the provided JSON file / Array of Object.
+- Search warehouses by name.
+- Filter warehouses by city, cluster, and available space limit.
+
+### Page 2: Warehouse Details
+
+- Clicking on a warehouse in the listing page redirects to its details page.
+- Edit warehouse information such as cluster, warehouse name, city, and available space.
+
+## Tech Stack
+
+- **ReactJS**: Frontend library for building user interfaces.
+- **Redux**: State management library for managing application state.
+- **React Router DOM**: Library for declarative routing in React applications.
+
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page](/Screenshot/Landing%20page.jpeg)
+
+### Filter Page
+![Filter Page](/Screenshot/filter%20page.jpeg)
+
+### Search Page
+![Search Page](/Screenshot/search%20page.jpeg)
+
+### Detail Page
+![Detail Page](/Screenshot/detail%20page.jpeg)
+
+
+
+### Author: Abhinandan
