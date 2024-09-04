@@ -33,3 +33,10 @@ A useEffect hook with a timeout is used to reset the search highlight after 3 se
 
 
 ## <span style="color:#29c4f6"> Projects Outputs:
+
+![Wether-1](https://github.com/user-attachments/assets/c3e8b001-c58e-4280-b8bd-e86262175dd0)
+
+![Weather-2](https://github.com/user-attachments/assets/66cc2f18-4328-4f37-98cc-318fb7574606)
+
+![Weather-3](https://github.com/user-attachments/assets/e06d3839-083b-49ee-9f26-0194fc449f2c)
+
